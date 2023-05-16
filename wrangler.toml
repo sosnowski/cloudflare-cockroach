@@ -1,0 +1,4 @@
+name = "test-cockroach"
+main = "src/index.ts"
+compatibility_date = "2023-05-16"
+node_compat = true
